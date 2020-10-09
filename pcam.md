@@ -14,5 +14,5 @@ TF: Exportamos el archivo.
 
 ## Comunicacion
 
-![hola](./PCAM Comunicacion Diagrama.jpg)
+![hola](./comdiagram.jpg)
 
