@@ -14,5 +14,5 @@
 
 ## Comunicacion
 
-![hola](./comdiagram.jpg)
+![hola](./coms.jpg)
 
