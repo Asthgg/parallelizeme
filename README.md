@@ -20,4 +20,4 @@ La siguiente imagen fue generada e escrita al escritorio en 17.14 segundos
 ![ri](./mandelbrotImgInicial.png)
 
 ### Diseño PCAM
-* [pcam](pcam.md)
+* [PCAM](pcam.md)
