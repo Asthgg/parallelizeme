@@ -2,8 +2,8 @@
 Proyecto 2 de Tópicos Especiales de Telemática. Solución paralelizada de un problema
 
 ## Integrantes
-Andrea Gonzales
-Sebastian Lara
+- Andrea Gonzales
+- Sebastian Lara
 
 ## Problema
 
@@ -13,4 +13,4 @@ Este problema se puede resolver haciendo uso de hilos, cada hilo puede compartir
 
 ## Resultados Iniciales
 
-
+![ri](./resultadosIniciales.png)
